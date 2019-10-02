@@ -1,0 +1,24 @@
+{
+  "name": "simple-server-node",
+  "version": "1.0.0",
+  "description": "a simple server of nodejs, which you can forward http request",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangerwei/simpleNodeServer.git"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "typescript"
+  ],
+  "author": "Tangerwei, Duke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tangerwei/simpleNodeServer/issues"
+  },
+  "homepage": "https://github.com/tangerwei/simpleNodeServer#readme"
+}
